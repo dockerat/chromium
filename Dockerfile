@@ -8,10 +8,6 @@ wechat="storezhang" \
 description="Google开源浏览器Chromium，主要用来做Headless操作，此镜像纯粹是为了加速其它镜像的编译而使用"
 
 
-# 复制文件
-COPY docker /
-
-
 RUN set -ex \
     \
     \

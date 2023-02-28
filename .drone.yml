@@ -23,7 +23,7 @@ steps:
       PASSWORD_CCR:
         from_secret: password_tencentyun_ccr
     settings:
-      repository: storezhang/todo
+      repository: storezhang/chromium
       registries:
         - username: storezhang
           password: $${PASSWORD_DOCKER}

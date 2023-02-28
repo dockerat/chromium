@@ -1,4 +1,4 @@
-# 项目
+# Chromeium
 
 [![编译状态](https://github.ruijc.com:20443/api/badges/pangum/pangu/status.svg)](https://github.ruijc.com:20443/pangum/pangu)
 [![Golang质量](https://goreportcard.com/badge/github.com/pangum/pangu)](https://goreportcard.com/report/github.com/pangum/pangu)
@@ -12,7 +12,7 @@
 ![最佳语言](https://img.shields.io/github/languages/top/pangum/pangu)
 ![星星个数](https://img.shields.io/github/stars/pangum/pangu?style=social)
 
-项目介绍
+Google开源浏览器Chromium，主要用来做Headless操作，此镜像纯粹是为了加速其它镜像的编译而使用
 
 ## 捐助
 
@@ -22,4 +22,5 @@
 ## 感谢Jetbrains
 
 本项目通过`Jetbrains开源许可IDE`编写源代码，特此感谢
-[![Jetbrains图标](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)](https://www.jetbrains.com/?from=pangum/pangu)
+
+[![Jetbrains图标](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=pangum/pangu)
